@@ -4,7 +4,7 @@ Senior Software Engineer with 14+ years delivering backend systems across Europe
 
 I specialise in compliance-aware distributed architecture — building and transforming cloud-native platforms where data integrity, system availability and regulatory requirements are non-negotiable.
 
-Currently at **Dairymaster**, leading cloud-native microservices architecture serving 1,000's farms globally on AWS (ECS, EKS) with edge-to-cloud IoT data pipelines.
+Currently at **Dairymaster**, leading cloud-native services architecture serving 1,000's farms globally on AWS (ECS, EKS) with edge-to-cloud IoT data pipelines.
 
 ---
 
