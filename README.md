@@ -1,6 +1,6 @@
 # Denis Murphy
 
-Senior Software Engineer with 14+ years delivering backend systems across Europe's regulated sectors: Fintech, GovTech and Agritech.
+Senior Software Engineer with 14+ years delivering backend systems across Europe's regulated sectors: Agritech, Healthtech, Fintech & GovTech.
 
 I specialise in compliance-aware distributed architecture — building and transforming cloud-native platforms where data integrity, system availability and regulatory requirements are non-negotiable.
 
@@ -14,14 +14,7 @@ Java · C# · TypeScript · Swift · AWS · Kubernetes · Terraform · Spring Bo
 
 **Compliance**
 
-ISO 27001 · ISO 9001 · NIS2 · GDPR · OWASP · CyFun · MiFID · Basel II · Solvency II · PCI DSS
-
----
-
-**Currently**
-
-- AWS Certified Solutions Architect (in progress)
-- Training on European Cyber Resilience Act (CRA)
+ISO 27001 · ISO 9001 · NIS2 · GDPR · OWASP · CyFun · MiFID · Basel III · Solvency II · PCI DSS
 
 ---
 
